@@ -1,4 +1,4 @@
-## Credits & Licenses
+## Credit & License
 
-This project uses:
+This project use:
 - [html-to-jsx](https://github.com/DiogoAngelim/html-to-jsx.git) (MIT License)
